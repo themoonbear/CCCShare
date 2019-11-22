@@ -1,6 +1,6 @@
 # 金币飞向目标动画
 
-+ 引擎版本：Cocos Creator v2.1.4
++ 引擎版本：Cocos Creator v2.2.0
 + 编程语言：Typescript
 
 ---
