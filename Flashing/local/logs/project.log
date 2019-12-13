@@ -1,0 +1,61 @@
+2019-12-13 21:08:04-warn: [Window] Error: 会话不存在或已过期
+2019-12-13 21:08:05-log: preferences@1.0.0 enable
+2019-12-13 21:08:07-log: Parse [/Applications/CocosCreator3D.app/Contents/Resources/resources/3d/engine/index.ts] : walk 481  files.
+2019-12-13 21:08:07-log: Parse [/Applications/CocosCreator3D.app/Contents/Resources/resources/3d/engine/index.ts]: 1820.848ms
+2019-12-13 21:08:07-log: QuickCompiler compileFinished: 37.813ms
+2019-12-13 21:08:07-log: QuickCompiler rebuild finished: 1979.709ms
+2019-12-13 21:08:08-log: engine@1.0.0 enable
+2019-12-13 21:08:08-log: asset-db@1.0.0 enable
+2019-12-13 21:08:08-log: console@1.0.0 enable
+2019-12-13 21:08:08-log: scene@1.0.0 enable
+2019-12-13 21:08:08-log: ui-kit@1.0.0 enable
+2019-12-13 21:08:08-log: assets@1.0.0 enable
+2019-12-13 21:08:08-log: inspector@1.0.0 enable
+2019-12-13 21:08:08-log: hierarchy@1.0.0 enable
+2019-12-13 21:08:08-log: packager@1.0.0 enable
+2019-12-13 21:08:08-log: project-setting@1.0.0 enable
+2019-12-13 21:08:08-log: preview@1.0.0 enable
+2019-12-13 21:08:08-log: builder@1.0.0 enable
+2019-12-13 21:08:08-log: animator@1.0.0 enable
+2019-12-13 21:08:08-log: about@1.0.0 enable
+2019-12-13 21:08:08-log: tester@1.0.0 enable
+2019-12-13 21:08:08-log: ipc@1.0.0 enable
+2019-12-13 21:08:08-log: profile@1.0.0 enable
+2019-12-13 21:12:09-warn: [Window] TypeError: Failed to execute 'texSubImage2D' on 'WebGLRenderingContext': parameter 9 is not of type 'ArrayBufferView'.
+2019-12-13 21:22:57-warn: [Window] TypeError: Failed to execute 'texSubImage2D' on 'WebGLRenderingContext': parameter 9 is not of type 'ArrayBufferView'.
+2019-12-13 21:23:37-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:23:42-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:23:45-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:23:49-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:23:54-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:24:33-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:24:46-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:25:08-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:25:12-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:25:18-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:26:06-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:26:13-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:26:14-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:26:30-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:03-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:04-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:06-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:06-error: [preview-error]load http://localhost:7456/engine-dev/cocos/tween/export-api.js failed
+2019-12-13 21:27:14-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:14-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:15-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:17-error: [preview-error]load http://localhost:7456/engine-dev/cocos/physics/export-api.js failed
+2019-12-13 21:27:29-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:39-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:43-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:27:54-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:14-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:26-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:26-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:26-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:27-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:27-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:28:27-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:30:25-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:30:28-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/New Scene.scene) saved
+2019-12-13 21:36:19-info: asset(/Users/sean/Study/project_cocos/CCCShare/Flashing/assets/Sample.scene) saved

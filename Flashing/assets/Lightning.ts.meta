@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "5a0b9e56-ee9a-4f91-a3e5-6f1011a73771",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Lightning.ts",
+    "importAsPlugin": false
+  }
+}
