@@ -27,3 +27,10 @@
 + [无尽传奇](https://forum.cocos.org/t/topic/86953)
 + [闪电链](Flashing/README.md)
 + [瞄准线](https://forum.cocos.org/t/topic/87163)
+
+## 2019/12 #5
+
++ [c2d 8种 Shader](https://github.com/XuDaFei/CocosCreator-2.2.X-shader-demo)
++ [c3d 水波 Shader](WaterShaderDemo/README.md)
++ [c3d 天空Shader](SkyShader/README.md)
++ [星空Line](https://forum.cocos.org/t/line/87362)
