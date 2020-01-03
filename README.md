@@ -41,3 +41,10 @@
 + [躲个球呀](https://forum.cocos.org/t/cocos-creator-5/87588)
 + [超速行驶](https://forum.cocos.org/t/topic/87530)
 + [躲一躲](https://forum.cocos.org/t/creator-3d/87697)
+
+## 2020/1 #7
+
++ [保卫小葱](https://forum.cocos.org/t/topic/87738)
++ [山水Shader](Hill-Water/README.md)
++ [烟雾Shader](Hill-Water/README.md)
++ [飘旗Shader]](Hill-Water/README.md)

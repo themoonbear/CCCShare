@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "4f83c66f-c1f2-4cc3-8ec6-21a58b84158e",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/CameraCtl.ts",
+    "importAsPlugin": false
+  }
+}
