@@ -1,5 +1,6 @@
 {
   "name": "Hill-Water",
   "type": "3d",
-  "uuid": "ed2bba60-2eab-45d3-82cc-ed5f4411aa5b"
+  "uuid": "ed2bba60-2eab-45d3-82cc-ed5f4411aa5b",
+  "version": "1.0.3"
 }

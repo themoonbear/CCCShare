@@ -1,12 +1,12 @@
 {
-  "ver": "1.3.15",
+  "ver": "1.3.16",
   "importer": "fbx",
   "imported": true,
   "uuid": "6778205c-1a2d-4555-adc9-2ee3149206bb",
   "files": [],
   "subMetas": {
     "46601": {
-      "ver": "1.0.10",
+      "ver": "1.0.12",
       "importer": "gltf-material",
       "uuid": "6778205c-1a2d-4555-adc9-2ee3149206bb@46601",
       "imported": true,

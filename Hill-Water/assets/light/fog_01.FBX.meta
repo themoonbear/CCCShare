@@ -2,13 +2,13 @@
   "ver": "1.3.16",
   "importer": "fbx",
   "imported": true,
-  "uuid": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4",
+  "uuid": "8958d61e-c50e-451f-a615-a32d48371987",
   "files": [],
   "subMetas": {
-    "ea0fa": {
+    "83e04": {
       "ver": "1.0.7",
       "importer": "gltf-mesh",
-      "uuid": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@ea0fa",
+      "uuid": "8958d61e-c50e-451f-a615-a32d48371987@83e04",
       "imported": true,
       "files": [
         ".json",
@@ -19,13 +19,13 @@
         "gltfIndex": 0
       },
       "displayName": "",
-      "id": "ea0fa",
-      "name": "hadr_01.mesh"
+      "id": "83e04",
+      "name": "Box200.mesh"
     },
-    "4c60c": {
+    "16a1e": {
       "ver": "1.0.2",
       "importer": "gltf-embeded-image",
-      "uuid": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@4c60c",
+      "uuid": "8958d61e-c50e-451f-a615-a32d48371987@16a1e",
       "imported": true,
       "files": [
         ".png",
@@ -36,13 +36,13 @@
         "gltfIndex": 0
       },
       "displayName": "",
-      "id": "4c60c",
-      "name": "Map #93.image"
+      "id": "16a1e",
+      "name": "Map #92.image"
     },
-    "5dbf5": {
+    "a1994": {
       "ver": "1.0.19",
       "importer": "texture",
-      "uuid": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@5dbf5",
+      "uuid": "8958d61e-c50e-451f-a615-a32d48371987@a1994",
       "imported": true,
       "files": [
         ".json"
@@ -57,16 +57,16 @@
         "premultiplyAlpha": false,
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@4c60c"
+        "imageUuidOrDatabaseUri": "8958d61e-c50e-451f-a615-a32d48371987@16a1e"
       },
       "displayName": "",
-      "id": "5dbf5",
-      "name": "Map #93.texture"
+      "id": "a1994",
+      "name": "Map #92.texture"
     },
-    "00320": {
+    "f332d": {
       "ver": "1.0.12",
       "importer": "gltf-material",
-      "uuid": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@00320",
+      "uuid": "8958d61e-c50e-451f-a615-a32d48371987@f332d",
       "imported": true,
       "files": [
         ".json"
@@ -76,13 +76,13 @@
         "gltfIndex": 0
       },
       "displayName": "",
-      "id": "00320",
-      "name": "m_hadry_01.material"
+      "id": "f332d",
+      "name": "m_blikace_01.material"
     },
-    "d2372": {
+    "1ed09": {
       "ver": "1.0.8",
       "importer": "gltf-scene",
-      "uuid": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@d2372",
+      "uuid": "8958d61e-c50e-451f-a615-a32d48371987@1ed09",
       "imported": true,
       "files": [
         ".json"
@@ -92,31 +92,31 @@
         "gltfIndex": 0
       },
       "displayName": "",
-      "id": "d2372",
-      "name": "hadr_01.FBX.prefab"
+      "id": "1ed09",
+      "name": "fog_01.FBX.prefab"
     }
   },
   "userData": {
     "imageMetas": [
       {
-        "name": "Map #93",
-        "uri": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@4c60c"
+        "name": "Map #92",
+        "uri": "8958d61e-c50e-451f-a615-a32d48371987@16a1e"
       }
     ],
-    "redirect": "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@d2372",
+    "redirect": "8958d61e-c50e-451f-a615-a32d48371987@1ed09",
     "assetFinder": {
       "meshes": [
-        "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@ea0fa"
+        "8958d61e-c50e-451f-a615-a32d48371987@83e04"
       ],
       "skeletons": [],
       "textures": [
-        "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@5dbf5"
+        "8958d61e-c50e-451f-a615-a32d48371987@a1994"
       ],
       "materials": [
-        "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@00320"
+        "8958d61e-c50e-451f-a615-a32d48371987@f332d"
       ],
       "scenes": [
-        "8a1ca5a2-bd35-47ad-8cd5-bd4d6a5542a4@d2372"
+        "8958d61e-c50e-451f-a615-a32d48371987@1ed09"
       ]
     }
   }

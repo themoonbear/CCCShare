@@ -47,4 +47,14 @@
 + [保卫小葱](https://forum.cocos.org/t/topic/87738)
 + [山水Shader](Hill-Water/README.md)
 + [烟雾Shader](Hill-Water/README.md)
-+ [飘旗Shader]](Hill-Water/README.md)
++ [飘旗Shader](Hill-Water/README.md)
+
+## 2020/1 #8
+
++ [塔防开源](https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame)
++ [巅峰漂移](https://forum.cocos.org/t/topic/88248)
+
+## 2020/1 #9
+
++ [弹无虚发](https://forum.cocos.org/t/ios/88265/2)
++ [狐朋狗友大作战](https://forum.cocos.org/t/topic/88312)
