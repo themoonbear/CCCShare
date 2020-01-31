@@ -6,7 +6,7 @@
   "files": [],
   "subMetas": {
     "ab81f": {
-      "ver": "1.0.7",
+      "ver": "1.0.8",
       "importer": "gltf-mesh",
       "uuid": "65108ebd-ce7a-4448-ba7e-b98020dc21c8@ab81f",
       "imported": true,
@@ -64,7 +64,7 @@
       "name": "Map #93.texture"
     },
     "00320": {
-      "ver": "1.0.12",
+      "ver": "1.0.13",
       "importer": "gltf-material",
       "uuid": "65108ebd-ce7a-4448-ba7e-b98020dc21c8@00320",
       "imported": true,
@@ -80,7 +80,7 @@
       "name": "m_hadry_01.material"
     },
     "7b890": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-scene",
       "uuid": "65108ebd-ce7a-4448-ba7e-b98020dc21c8@7b890",
       "imported": true,

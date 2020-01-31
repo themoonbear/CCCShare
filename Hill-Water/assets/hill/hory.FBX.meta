@@ -6,7 +6,7 @@
   "files": [],
   "subMetas": {
     "1bf54": {
-      "ver": "1.0.7",
+      "ver": "1.0.8",
       "importer": "gltf-mesh",
       "uuid": "db4cd9b2-669c-401c-a0b0-aedab5068a11@1bf54",
       "imported": true,
@@ -64,7 +64,7 @@
       "name": "Map #53.texture"
     },
     "d9626": {
-      "ver": "1.0.12",
+      "ver": "1.0.13",
       "importer": "gltf-material",
       "uuid": "db4cd9b2-669c-401c-a0b0-aedab5068a11@d9626",
       "imported": true,
@@ -80,7 +80,7 @@
       "name": "hory.material"
     },
     "a83de": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-scene",
       "uuid": "db4cd9b2-669c-401c-a0b0-aedab5068a11@a83de",
       "imported": true,

@@ -6,7 +6,7 @@
   "files": [],
   "subMetas": {
     "49003": {
-      "ver": "1.0.12",
+      "ver": "1.0.13",
       "importer": "gltf-material",
       "uuid": "d4c513f7-8b6f-4eb4-b736-5bd2690e97cd@49003",
       "imported": true,
@@ -39,7 +39,7 @@
       "name": "Map #100.image"
     },
     "fb329": {
-      "ver": "1.0.7",
+      "ver": "1.0.8",
       "importer": "gltf-mesh",
       "uuid": "d4c513f7-8b6f-4eb4-b736-5bd2690e97cd@fb329",
       "imported": true,
@@ -80,7 +80,7 @@
       "name": "Map #100.texture"
     },
     "e1d2c": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-scene",
       "uuid": "d4c513f7-8b6f-4eb4-b736-5bd2690e97cd@e1d2c",
       "imported": true,

@@ -6,7 +6,7 @@
   "files": [],
   "subMetas": {
     "83e04": {
-      "ver": "1.0.7",
+      "ver": "1.0.8",
       "importer": "gltf-mesh",
       "uuid": "8958d61e-c50e-451f-a615-a32d48371987@83e04",
       "imported": true,
@@ -64,7 +64,7 @@
       "name": "Map #92.texture"
     },
     "f332d": {
-      "ver": "1.0.12",
+      "ver": "1.0.13",
       "importer": "gltf-material",
       "uuid": "8958d61e-c50e-451f-a615-a32d48371987@f332d",
       "imported": true,
@@ -80,7 +80,7 @@
       "name": "m_blikace_01.material"
     },
     "1ed09": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-scene",
       "uuid": "8958d61e-c50e-451f-a615-a32d48371987@1ed09",
       "imported": true,

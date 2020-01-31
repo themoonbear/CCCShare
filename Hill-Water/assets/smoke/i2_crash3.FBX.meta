@@ -6,7 +6,7 @@
   "files": [],
   "subMetas": {
     "7cc07": {
-      "ver": "1.0.7",
+      "ver": "1.0.8",
       "importer": "gltf-mesh",
       "uuid": "2190bc68-8bad-4e6d-822f-92edd43ebcf7@7cc07",
       "imported": true,
@@ -64,7 +64,7 @@
       "name": "Map #101.texture"
     },
     "d3311": {
-      "ver": "1.0.12",
+      "ver": "1.0.13",
       "importer": "gltf-material",
       "uuid": "2190bc68-8bad-4e6d-822f-92edd43ebcf7@d3311",
       "imported": true,
@@ -80,7 +80,7 @@
       "name": "m_dym_02.material"
     },
     "04f18": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-scene",
       "uuid": "2190bc68-8bad-4e6d-822f-92edd43ebcf7@04f18",
       "imported": true,

@@ -6,7 +6,7 @@
   "files": [],
   "subMetas": {
     "46601": {
-      "ver": "1.0.12",
+      "ver": "1.0.13",
       "importer": "gltf-material",
       "uuid": "6778205c-1a2d-4555-adc9-2ee3149206bb@46601",
       "imported": true,
@@ -22,7 +22,7 @@
       "name": "m_watter_01.material"
     },
     "8cae4": {
-      "ver": "1.0.7",
+      "ver": "1.0.8",
       "importer": "gltf-mesh",
       "uuid": "6778205c-1a2d-4555-adc9-2ee3149206bb@8cae4",
       "imported": true,
@@ -80,7 +80,7 @@
       "name": "Map #102.texture"
     },
     "1e547": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-scene",
       "uuid": "6778205c-1a2d-4555-adc9-2ee3149206bb@1e547",
       "imported": true,
